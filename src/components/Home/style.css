@@ -1,0 +1,124 @@
+thead tr th {
+    background-color: aqua;
+    border-collapse: collapse;
+    border: 1px solid #000;
+    height: 40px;    
+     
+}
+
+.lc{    
+    margin-left: 310px;
+    margin-top: 40px;        
+}
+.marca_I {
+    position: absolute;
+    left: 5px;
+    font-size: 14px;    
+    top: 17px;    
+}
+#marca_Mar {
+    position: absolute;
+    width: 80px;
+    height: 15px;
+    left: 40px;
+    border: 1px solid #000;
+    font-size: 14px;
+    top: 0px;
+   
+}
+.ano_I {
+    position: absolute;
+    left: 140px;
+    top: 17px;
+    font-size: 14px;
+}
+.modelo_I {
+    position: absolute;
+    left: 230px;
+    top: 17px;
+    font-size: 14px;    
+}
+#modelo_Mod{
+    position: absolute;    
+    width: 75px;
+    height: 15px;
+    border: 1px solid #000;
+    left: 50px;
+    font-size: 14px;
+}
+.camb_I {
+    position: absolute;
+    top: 250px;
+    font-size: 14px; 
+    top: 17px; 
+    left: 375px; 
+    font-size: 14px;
+}
+#camb_Cam{
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    font-size: 14px;
+    border: 1px solid #000;
+    top: 14x;
+    left: 50px;
+    
+    
+}
+.comb_I {
+    position: absolute;
+    top: 17px;
+    left: 500px;
+    font-size: 14px;
+   
+}
+#comb_Com {
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    border: 1px solid #000;
+    top: 14x;
+    left: 45px;
+    font-size: 14px;
+    
+}
+
+.cor_I {
+    position: absolute;
+    top: 17px;
+    left: 625px;
+    font-size: 14px;
+}
+#cor_Cor{
+    position: absolute;
+    left: 30px;
+    width: 80px;
+    height: 15px;
+    top: 0px;
+    border: 1px solid #000;
+    font-size: 14px;
+}
+.container2 {
+    position: absolute;
+    width: 750px;
+    height: 50px;
+    background-color:#ccc;
+    top: 110px;
+    left: 20px;
+    border: 1px solid #000;
+}
+
+.btn2{
+    position: absolute;
+    top: 165px;
+    left: 20px;
+    background-color: #0f0;
+    width: 751px;
+    height: 30px;
+    border: 1px solid #000;
+}
+.estoque {
+    position: absolute;
+    top: 200px;
+    left: 280px;
+}
